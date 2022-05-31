@@ -29,27 +29,27 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto">
+          <ul class="navbar-nav ms-auto" id="navbar">
             <li class="nav-item">
-              <a class="nav-link actived" aria-current="page" href="#">Beranda</a>
+              <a class="nav-link actived" aria-current="page" href="./beranda.php">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Museum</a>
+              <a class="nav-link" href="./museum.php">Museum</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Galeri</a>
+              <a class="nav-link" href="./galeri.php">Galeri</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Kuliner</a>
+              <a class="nav-link" href="./kuliner.php">Kuliner</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tempat Rekreasi</a>
+              <a class="nav-link" href="./rekreasi.php">Tempat Rekreasi</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#"><i class="uil uil-search"></i></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><button type="button" class="btn btn-purple">Register/Login</button></a>
+              <a class="nav-link" href="#"><button type="button" class="btn btn-purple">Login</button></a>
             </li>
           </ul>
         </div>
@@ -61,14 +61,12 @@
     <!-- Welcome -->
     <section id="welcomePage" class="welcomePage text-center">
       <h1 class="title-welcomePage fw-bold">Selamat Datang di <span>Visit Jakarta</span>!</h1>
-      <p class="container subtitle-welcomePage subtitle  fw-semibold">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius, assumenda nihil quia aliquam molestiae impedit architecto ducimus alias voluptate id libero. Architecto ipsa voluptatum magnam! Exercitationem nisi numquam suscipit veniam.</p>
+      <p class="container subtitle-welcomePage subtitle fw-semibold">Ingin berwisata ke Jakarta tetapi tidak tahu apa saja yang asyik untuk dikunjungi? Tenang, <span>Visit Jakarta</span> hadir untuk membantu kamu menentukan tujuan wisata. Yuk, gabung!</p>
       <button class="btn btn-purple button-welcomePage"><a href="#">Gabung sekarang</a></button>
-
-
     </section>
 
     <!-- Museum -->
-    <section id="museum" class="container museum">
+    <section id="beranda-museum" class="container museum">
       <div class="row d-flex justify-content-evenly">
         <div class="col">
           <div class="rectangle">
@@ -77,18 +75,18 @@
         </div>
         <div class="col text-museum align-self-center">
           <h1 class="text-decoration-underline">Museum</h1>
-          <p class="subtitle subtitle-museum mt-3 fw-semibold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veritatis ipsa delectus beatae incidunt eveniet consectetur dolores nemo? Iste, facilis modi? Corporis, error quasi. Maiores excepturi vitae dolor saepe qui!</p>
+          <p class="subtitle subtitle-museum mt-3 fw-semibold">Kita hidup sekarang karena masa lalu, dan masa depan adalah kita hari ini. Demikian kata seorang bijak yang menggambarkan pentingnya sejarah. Nah, salah satu cara belajar sejarah dengan cara yang menyenangkan adalah dengan mengunjungi museum.</p>
           <button class="btn btn-purple button-museum mt-4"><a href="#">Selengkapnya</a></button>
         </div>
       </div>
     </section>
 
     <!-- Galeri -->
-    <section id="galeri" class="container galeri">
+    <section id="beranda-galeri" class="container galeri">
       <div class="row d-flex justify-content-evenly">
         <div class="col text-galeri align-self-center">
           <h1 class="text-decoration-underline">Galeri</h1>
-          <p class="subtitle subtitle-galeri mt-3 fw-semibold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veritatis ipsa delectus beatae incidunt eveniet consectetur dolores nemo? Iste, facilis modi? Corporis, error quasi. Maiores excepturi vitae dolor saepe qui!</p>
+          <p class="subtitle subtitle-galeri mt-3 fw-semibold">Galeri merupakan tempat yang berfungsi untuk menyajikan karya seni seperti alat musik, tarian, baju adat, dan lain - lain untuk dipamerkan kepada masyarakat luas. Selain itu, galeri juga bisa menjadi tempat untuk menjual karya seni serta menjadi tempat untuk mempelajari berbagai macam tentang kesenian.</p>
           <button class="btn btn-purple button-museum mt-4"><a href="#">Selengkapnya</a></button>
         </div>
         <div class="col">
@@ -101,42 +99,43 @@
     </section>
 
     <!-- Kuliner -->
-    <section id="kuliner" class="container kuliner">
+    <section id="beranda-kuliner" class="container kuliner">
       <div class="kuliner-title">
         <h1 class="text-decoration-underline text-center">Kuliner</h1>
       </div>
       <div class="subtitle kuliner-subtitle">
-        <p class="subtitle subtitle-kuliner mt-3 fw-semibold text-center" style="color: hsla(0, 0%, 18%, 0.603);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veritatis ipsa delectus beatae incidunt eveniet consectetur dolores nemo? Iste, facilis modi? Corporis, error quasi. Maiores excepturi vitae dolor saepe qui!</p>
+        <p class="subtitle subtitle-kuliner mt-3 fw-semibold text-center" style="color: hsla(0, 0%, 18%, 0.603);">Sejarah nusantara melihat masakan Indonesia sebagai hasil persilangan budaya. Saat ini, kreativitas anak muda berkontribusi pada keragaman makanan dan minuman di Jakarta. Belum lagi beragamnya gaya hidup diet (modified diet), yaitu mulai dari vegetarian (tanpa daging), vegan (tanpa makanan hewani), hingga ketogenik (makanan rendah karbohidrat dan tinggi lemak) yang menciptakan sebuah kancah kuliner baru.</p>
       </div>
 
       <div class="wrapper">
         <div class="row justify-content-evenly ">
           <div class="col-md-3 m-1">
             <div class="card" style="width: 18rem;">
-              <img src="..." class="card-img-top" alt="...">
+              <img src="./img/beranda/soto-betawi.png" class="card-img-top" alt="Soto Betawi">
               <div class="card-body">
-                <h5 class="card-title fw-bolder">Card title</h5>
-                <p class="card-text fw-semibold">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h5 class="card-title fw-bolder">Soto Betawi</h5>
+                <p class="card-text fw-semibold">Soto Betawi merupakan soto khas yang terdiri dari campuran
+                  daging dan jerohan sapi. </p>
                 <a href="#"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
           <div class="col-md-3 m-1">
             <div class="card" style="width: 18rem;">
-              <img src="..." class="card-img-top" alt="...">
+              <img src="./img/beranda/kerak-telor.png" class="card-img-top" alt="Kerak Telor">
               <div class="card-body">
-                <h5 class="card-title fw-bolder">Card title</h5>
-                <p class="card-text fw-semibold">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h5 class="card-title fw-bolder">Kerak Telor</h5>
+                <p class="card-text fw-semibold">Kerak telor adalah makanan khas yang terbuat dari bahan dasar beras ketan putih dan telur ayam.</p>
                 <a href="#"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
           <div class="col-md-3 m-1">
             <div class="card" style="width: 18rem;">
-              <img src="..." class="card-img-top" alt="...">
+              <img src="./img/beranda/laksa-betawi.png" class="card-img-top" alt="Laksa Betawi">
               <div class="card-body">
-                <h5 class="card-title fw-bolder">Card title</h5>
-                <p class="card-text fw-semibold">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h5 class="card-title fw-bolder">Laksa Betawi</h5>
+                <p class="card-text fw-semibold">Laksa betawi adalah Penganan berjenis mie yang diberi bumbu</p>
                 <a href="#"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
@@ -147,7 +146,7 @@
     </section>
 
     <!-- Tempat Rekreasi -->
-    <section id="tempat-rekreasi" class="container tempat-rekreasi">
+    <section id="beranda-tempat-rekreasi" class="container tempat-rekreasi">
       <div class="row d-flex justify-content-evenly">
         <div class="col">
           <div class="rectangle">
@@ -156,7 +155,7 @@
         </div>
         <div class="col text-tempat-rekreasi align-self-center">
           <h1 class="text-decoration-underline">Tempat Rekreasi</h1>
-          <p class="subtitle subtitle-tempat-rekreasi mt-3 fw-semibold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus veritatis ipsa delectus beatae incidunt eveniet consectetur dolores nemo? Iste, facilis modi? Corporis, error quasi. Maiores excepturi vitae dolor saepe qui!</p>
+          <p class="subtitle subtitle-tempat-rekreasi mt-3 fw-semibold">Tempat rekreasi merupakan suatu kawasan yang dapat digunakan oleh masyarakat untuk menghabiskan waktu luang baik secara individual atau bersama-sama dengan keluarga, teman, dan lainnya. </p>
           <button class="btn btn-purple button-tempat-rekreasi mt-4"><a href="#">Selengkapnya</a></button>
         </div>
       </div>
@@ -178,8 +177,24 @@
   </main>
 
   <footer>
-    <div id="footer">
-      <p class="text-center">Tugas Project UAS Pemrograman Web</p>
+    <div id="footer" class="container pt-3">
+      <h3 class="fw-bolder">Visit Jakarta</h3>
+      <div class="row pt-3">
+        <div class="col-md-8">
+          <p class="subtitle-footer fw-semibold">Visit Jakarta merupakan website yang memberikan referensi berbagai tempat yang berada di kota Jakarta. Website ini diharapkan dapat menjadi rujukan pengguna untuk mendapatkan informasi mengenai tempat tersebut.</p>
+        </div>
+        <div class="col-md-2"></div>
+        <div class="col-md-2">
+          <div class="medsos-wrapper">
+            <i class="uil uil-facebook-f"></i>
+            <i class="uil uil-instagram"></i>
+            <i class="uil uil-twitter-alt"></i>
+          </div>
+        </div>
+      </div>
+      <div class="copyright text-center mt-5">
+        <p>&copy; 2022 All Rights Reserved Designed by Visit Jakarta</p>
+      </div>
     </div>
   </footer>
 

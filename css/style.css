@@ -54,16 +54,15 @@ section:not(.welcomePage) {
   background-color: hsla(0, 0%, 69%, 0.603);
   border-radius: 0.5rem;
 }
-
 ::-webkit-scrollbar-thumb {
   background-color: hsla(0, 0%, 50%, 0.603);
   border-radius: 0.5rem;
 }
-
 ::-webkit-scrollbar-thumb:hover {
   background-color: hsla(0, 0%, 30%, 0.808);
 }
 
+/* Navbar */
 .nav-item .actived {
   color: #922ec1;
 }
@@ -97,6 +96,27 @@ section:not(.welcomePage) {
   font-size: 20px;
 }
 
+/* Footer */
+footer {
+  background-color: hsl(281, 62%, 30%);
+  padding: 1rem 0;
+  color: white;
+}
+.subtitle-footer {
+  color: hsl(282, 100%, 92%);
+}
+.medsos-wrapper {
+  font-size: 24px;
+  display: flex;
+  justify-content: space-around;
+  transition: ease-out 0.5s;
+}
+.medsos-wrapper i:hover {
+  color: #922ec1;
+  cursor: pointer;
+}
+
+/* Beranda */
 .welcomePage {
   padding: 15rem 0 10rem 0;
   background-color: hsl(0, 0%, 89%);
@@ -107,6 +127,9 @@ section:not(.welcomePage) {
 .subtitle-welcomePage {
   margin-top: 2rem;
   color: hsla(0, 0%, 18%, 0.603);
+}
+.subtitle-welcomePage span {
+  color: #922ec1;
 }
 .button-welcomePage {
   width: 200px;
@@ -145,15 +168,35 @@ section:not(.welcomePage) {
   color: hsl(282, 100%, 95%);
 }
 
-#footer {
-  background-color: hsl(281, 62%, 30%);
-  padding: 1rem 0;
-  color: white;
+/* Museum */
+.museum-wrapper {
+  margin-top: 8rem;
+}
+.list-group-item.active {
+  background-color: #922ec1;
+  border: none;
+  border-radius: 10px;
+}
+
+/* Galeri */
+.galeri-wrapper {
+  margin-top: 8rem;
+}
+
+/* Rekreasi */
+.rekreasi-wrapper {
+  margin-top: 8rem;
 }
 
 /* Responsive */
 @media screen and (max-width: 600px) {
+  /* Beranda */
   .welcomePage {
-    padding: 12rem 0 5rem 0;
+    padding: 15rem 0 5rem 0;
+  }
+
+  /* Museum */
+  .museum-wrapper {
+    margin-top: 3rem;
   }
 }
