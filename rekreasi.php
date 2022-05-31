@@ -49,7 +49,7 @@
               <a class="nav-link" href="#"><i class="uil uil-search"></i></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><button type="button" class="btn btn-purple">Login</button></a>
+              <a class="nav-link" href="./login.php"><button type="button" class="btn btn-purple">Login</button></a>
             </li>
           </ul>
         </div>

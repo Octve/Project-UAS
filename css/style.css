@@ -188,6 +188,15 @@ footer {
   margin-top: 8rem;
 }
 
+/* Login */
+.login-wrapper {
+  margin-top: 8rem;
+}
+form {
+  margin-bottom: 5rem;
+  width: 400px;
+}
+
 /* Responsive */
 @media screen and (max-width: 600px) {
   /* Beranda */
