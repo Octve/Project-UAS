@@ -76,12 +76,12 @@
                   <p class="subtitle fw-semibold mt-3">Soto Betawi merupakan soto yang khas dari daerah DKI Jakarta yang terdiri dari campuran daging dan jerohan sapi. Kuah soto Betawi merupakan campuran santan dan susu. </p>
                   <button class="btn btn-purple button-kuliner mt-2 mb-3"><a href="#">Lihat restoran</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/kuliner/soto-betawi.png" width="300px" alt="Soto Betawi">
                 </div>
               </div>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/kuliner/kerak-telor.png" width="300px" style="border-radius: 10px;" alt="Kerak Telor">
                 </div>
                 <div class="col-md-7">
@@ -96,7 +96,7 @@
                   <p class="subtitle fw-semibold mt-3">Laksa betawi adalah Penganan berjenis mie yang diberi bumbu. Laksa Betawi memiliki kuah berwarna kekuningan. Campuran udang rebon yang ada dalam kuah laksa, membuat rasanya menjadi segar dan di padu aroma khas udang. Selain itu, Makanan ini menggunakan Ketupat.</p>
                   <button class="btn btn-purple button-kuliner mt-2 mb-3"><a href="#">Lihat Restoran</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/kuliner/laksa-betawi.png" width="300px" alt="Laksa Betawi">
                 </div>
               </div>
@@ -104,7 +104,7 @@
               <!-- Minuman -->
               <h3 class="fw-bolder mt-3" id="list-item-2">Minuman</h3>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/kuliner/selendang-mayang.png" width="300px" style="border-radius: 10px;" alt="Selendang Mayang">
                 </div>
                 <div class="col-md-7">

@@ -12,8 +12,9 @@
   <link rel="stylesheet" href="./css/style.css" type="text/css">
   <!-- Unicons (Icons) -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
-  
+
 </head>
+
 <body>
   <!-- Scroll top button -->
   <button onclick="topFunction()" class="btn btn-purple" id="myBtn" title="Go to top">
@@ -78,12 +79,12 @@
                   <p class="subtitle fw-semibold mt-3">Museum Nasional Indonesia atau yang sering disebut masyarakat “Museum Gajah” karena di halaman depan museum terdapat sebuah patung gajah perunggu. Terdapat arkeologi, sejarah, etnografi, dan geografi. </p>
                   <button class="btn btn-purple button-museum mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/museum/Museum-Gajah.png" width="300px" alt="Museum Gajah">
                 </div>
               </div>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/museum/museum-taman-prasasti.jpeg" width="300px" style="border-radius: 10px;" alt="Museum Taman Prasasti">
                 </div>
                 <div class="col-md-7">
@@ -100,14 +101,14 @@
                   <p class="subtitle fw-semibold mt-3">Museum Fatahillah memiliki nama resmi Museum Sejarah Jakarta. Museum ini merupakan salah satu sejarah perjalanan kota Jakarta. Museum Fatahillah menempati balai kota tua dan berisi artefak, senjata, dan penjara tua. </p>
                   <button class="btn btn-purple button-museum mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/museum/Museum-Fatahillah.png" width="300px" alt="Museum fatahillah">
                 </div>
               </div>
               <!-- Jaksel -->
               <h3 class="fw-bolder mb-3" id="list-item-3">Jakarta Selatan</h3>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/museum/Museum-Satriamandala.png" width="300px" alt="Museum Kebangkitan Nasional">
                 </div>
                 <div class="col-md-7">
@@ -124,14 +125,14 @@
                   <p class="subtitle fw-semibold mt-3">Museum Bahari adalah museum yang menyimpan koleksi yang berhubungan dengan kebaharian dan kenelayanan bangsa Indonesia dari Sabang hingga Merauke. Diantaranya koleksi perahu tradisional yang digunakan nelayan.</p>
                   <button class="btn btn-purple button-museum mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/museum/Museum-Bahari.png" width="300px" alt="Museum Bahari">
                 </div>
               </div>
               <!-- Jaktim -->
               <h3 class="fw-bolder mb-3" id="list-item-5">Jakarta Timur</h3>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/museum/Museum-Perangko.jpeg" width="300px" style="border-radius: 10px;" alt="Museum Perangko">
                 </div>
                 <div class="col-md-7">
@@ -170,4 +171,5 @@
   <script src="./js/main.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 </body>
+
 </html>

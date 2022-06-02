@@ -80,12 +80,12 @@
                   <p class="subtitle fw-semibold mt-3">Monumen Nasional atau yang biasa kita kenal dengan sebutan Monas atau Tugu Monas merupakan monumen peringatan setinggi 132 meter (433 kaki) yang didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia demi merebut kemerdekaan dari pemerintahan kolonial Hindia Belanda. </p>
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/Monas.png" width="300px" alt="Monas">
                 </div>
               </div>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/gedung-kebangkitan-nasional.png" width="300px" style="border-radius: 10px;" alt="rekreasi Kebangkitan Nasional">
                 </div>
                 <div class="col-md-7">
@@ -100,12 +100,12 @@
                   <p class="subtitle fw-semibold mt-3">Tugu Proklamasi merupakan tugu peringatan proklamasi kemerdekaan Republik Indonesia yang berdiri di kompleks Taman Proklamasi di Jalan Proklamasi, Jakarta Pusat. Tugu tersebut berlokasi di kediaman Suoekarno pada masa lampau, di Jalan Pegangsaan Timur 56. Rumah tersebut, telah dihancurkan dan merupakan lokasi pembacaan proklamasi kemerdekaan.</p>
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/tugu-proklamasi.png" width="300px" alt="Tugu Proklamasi">
                 </div>
               </div>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/taman-suropati.png" width="300px" style="border-radius: 10px;" alt="rekreasi Kebangkitan Nasional">
                 </div>
                 <div class="col-md-7">
@@ -123,7 +123,7 @@
                   <p class="subtitle fw-semibold mt-3">Kota Tua Batavia pada sekitar abad ke-16 merupakan lokasi yang menjadi pusat perdagangan di Asia. Uniknya, keberadaan sisa-sisa masa lampau yang merupakan kawasan peninggalan Belanda tersebut sampai sekarang masih terjaga keasliannya, terutama dari sisi bangunannya.</p>
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/kota-tua.png" width="300px" alt="Kota Tua Batavia">
                 </div>
               </div>
@@ -131,7 +131,7 @@
               <!-- Jaksel -->
               <h3 class="fw-bolder mb-3" id="list-item-3">Jakarta Selatan</h3>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/taman-langsat.png" width="300px" alt="Taman Langsat">
                 </div>
                 <div class="col-md-7">
@@ -149,7 +149,7 @@
                   <p class="subtitle fw-semibold mt-3">Taman Suaka Margasatwa Muara Angke merupakan destinasi wisata hutan bakau yang terletak di Jakarta Utara. Daerah ini menjadi satu-satunya hutan di Jakarta yang dilindungi oleh pemerintah. Tempat wisata ini memiliki jembatan kayu dengan panjang sekitar 843 meter yang dapat membantu untuk menelusuri hutan alami yang indah.</p>
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/muara-angke.png" width="300px" alt="Suaka Margasatwa Muara Angke">
                 </div>
               </div>
@@ -157,7 +157,7 @@
               <!-- Jaktim -->
               <h3 class="fw-bolder mb-3" id="list-item-5">Jakarta Timur</h3>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/rekreasi/taman-mini.png" width="300px" alt="Taman Mini Indonesia Indah">
                 </div>
                 <div class="col-md-7">

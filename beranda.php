@@ -69,7 +69,7 @@
     <section id="beranda-museum" class="container museum">
       <div class="row d-flex justify-content-evenly">
         <div class="col">
-          <div class="rectangle">
+          <div class="rectangle text-center">
             <img class="img-fluid" src="./img/beranda/museum.png " alt="museum">
           </div>
         </div>
@@ -90,7 +90,7 @@
           <button class="btn btn-purple button-museum mt-4"><a href="#">Selengkapnya</a></button>
         </div>
         <div class="col">
-          <div class="rectangle">
+          <div class="rectangle text-center">
             <img class="img-fluid" src="./img/beranda/galeri.jpg" alt="Galeri">
           </div>
         </div>
@@ -149,7 +149,7 @@
     <section id="beranda-tempat-rekreasi" class="container tempat-rekreasi">
       <div class="row d-flex justify-content-evenly">
         <div class="col">
-          <div class="rectangle">
+          <div class="rectangle text-center">
             <img class="img-fluid" src="./img/beranda/rekreasi.jpg" alt="Rekreasi">
           </div>
         </div>

@@ -80,12 +80,12 @@
                   <p class="subtitle fw-semibold mt-3">Galeri Nasional Indonesia merupakan tempat pameran seni rupa modern dan kontemporer. Terdapat juga beberapa gedung yang berfungsi sebagai tempat perhelatan seni rupa Indonesia dan juga mancanegara.</p>
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/galeri/galeri-nasional-indonesia.png" width="300px" alt="Galeri Nasional Indonesia">
                 </div>
               </div>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/galeri/galeri-indonesia-kaya.png" width="300px" style="border-radius: 10px;" alt="Galeri Indonesia Kaya">
                 </div>
                 <div class="col-md-7">
@@ -100,7 +100,7 @@
                   <p class="subtitle fw-semibold mt-3">Galeri Bartele merupakan tempat seni yang menampilkan barang - barang antik. Dalam galeri ini terdapat berbagai koleksi barang langka seperti buku, peta foto - foto, dan lukisan yang berusia sampai lebih dari 500 tahun.</p>
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/galeri/galeri-bartele.png" width="300px" alt="Galeri Bartele">
                 </div>
               </div>
@@ -127,7 +127,7 @@
                   <p class="subtitle fw-semibold mt-3">Galeri yang didirikan sejak 1961 ini menampilkan seni - seni lukisan dari nusantaran dan mancanegara. Selain memamerkan kesenian, di tempat ini juga terdapat kelas untuk mempelajari mengenai kesenian.</p>
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/galeri/galeri-hadiprana.png" width="300px" style="border-radius: 10px;" alt="Galeri Hadiprana">
                 </div>
               </div>
@@ -135,7 +135,7 @@
               <!-- Jakut -->
               <h3 class="fw-bolder mb-3" id="list-item-4">Jakarta Utara</h3>
               <div class="row mb-5">
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/galeri/galeri-artone.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Art One">
                 </div>
                 <div class="col-md-7">
@@ -153,7 +153,7 @@
                   <p class="subtitle fw-semibold mt-3">Galeri ini baru diresmikan tahun 2020 oleh Pemerintah Kota Jakarta Timur.Galeri disebut juga pasar karena berisikan kios-kios yang menjual lukisan, patung, kaset, vinyl atau piringan hitam, turntable (alat pemutar piringan hitam), lemari kayu jati, buku sastra, bingkai foto, dan alat seni lainnya.</p>
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
-                <div class="col">
+                <div class="col text-center">
                   <img class="img-fluid" src="./img/galeri/galeri-pasarseni.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Pasar Seni">
                 </div>
               </div>
