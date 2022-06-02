@@ -183,6 +183,11 @@ footer {
   margin-top: 8rem;
 }
 
+/* Kuliner */
+.kuliner-wrapper {
+  margin-top: 8rem;
+}
+
 /* Rekreasi */
 .rekreasi-wrapper {
   margin-top: 8rem;
@@ -206,6 +211,18 @@ form {
 
   /* Museum */
   .museum-wrapper {
+    margin-top: 3rem;
+  }
+  /* Galeri */
+  .galeri-wrapper {
+    margin-top: 3rem;
+  }
+  /* Kuliner */
+  .kuliner-wrapper {
+    margin-top: 3rem;
+  }
+  /* Rekreasi */
+  .rekreasi-wrapper {
     margin-top: 3rem;
   }
 }
