@@ -119,17 +119,20 @@ footer {
 /* Beranda */
 .welcomePage {
   padding: 15rem 0 10rem 0;
-  background-color: hsl(0, 0%, 89%);
+  background-image: url("../img/beranda/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
 }
 .title-welcomePage span {
-  color: #922ec1;
+  color: hsl(281, 62%, 77%);
 }
 .subtitle-welcomePage {
   margin-top: 2rem;
-  color: hsla(0, 0%, 18%, 0.603);
+  color: #fff;
 }
 .subtitle-welcomePage span {
-  color: #922ec1;
+  color: hsl(281, 62%, 77%);
 }
 .button-welcomePage {
   width: 200px;
@@ -137,11 +140,9 @@ footer {
   margin-top: 2rem;
 }
 
-.rectangle {
-  width: 100%;
-  height: 300px;
-  background-color: hsl(0, 0%, 84%);
+.rectangle img {
   border-radius: 10px;
+  height: 300px;
 }
 
 .card {

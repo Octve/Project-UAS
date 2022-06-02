@@ -70,7 +70,7 @@
       <div class="row d-flex justify-content-evenly">
         <div class="col">
           <div class="rectangle">
-
+            <img class="img-fluid" src="./img/beranda/museum.png " alt="museum">
           </div>
         </div>
         <div class="col text-museum align-self-center">
@@ -91,7 +91,7 @@
         </div>
         <div class="col">
           <div class="rectangle">
-
+            <img class="img-fluid" src="./img/beranda/galeri.jpg" alt="Galeri">
           </div>
         </div>
 
@@ -150,7 +150,7 @@
       <div class="row d-flex justify-content-evenly">
         <div class="col">
           <div class="rectangle">
-
+            <img class="img-fluid" src="./img/beranda/rekreasi.jpg" alt="Rekreasi">
           </div>
         </div>
         <div class="col text-tempat-rekreasi align-self-center">
