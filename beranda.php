@@ -61,8 +61,8 @@
     <!-- Welcome -->
     <section id="welcomePage" class="welcomePage text-center">
       <h1 class="title-welcomePage fw-bold">Selamat Datang di <span>Visit Jakarta</span>!</h1>
-      <p class="container subtitle-welcomePage subtitle fw-semibold">Ingin berwisata ke Jakarta tetapi tidak tahu apa saja yang asyik untuk dikunjungi? Tenang, <span>Visit Jakarta</span> hadir untuk membantu kamu menentukan tujuan wisata. Yuk, gabung!</p>
-      <button class="btn btn-purple button-welcomePage"><a href="#">Gabung sekarang</a></button>
+      <p class="container subtitle-welcomePage subtitle fw-semibold">Ingin berwisata ke Jakarta tetapi tidak tahu apa saja yang asyik untuk dikunjungi? Tenang, <span>Visit Jakarta</span> hadir untuk membantu kamu menentukan tujuan wisata. <br>Yuk, gabung!</p>
+      <button class="btn btn-purple button-welcomePage"><a href="./login.php">Gabung sekarang</a></button>
     </section>
 
     <!-- Museum -->
