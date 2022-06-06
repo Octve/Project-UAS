@@ -24,7 +24,7 @@
   <header>
     <nav class="navbar navbar-expand-lg fw-semibold fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">Logo</a>
+        <a class="navbar-brand" href="#"><img src="./img/logo.svg" alt="Logo"> Visit Jakarta</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -103,7 +103,7 @@
       <div class="kuliner-title">
         <h1 class="text-decoration-underline text-center">Kuliner</h1>
       </div>
-      <div class="subtitle kuliner-subtitle">
+      <div class="subtitle kuliner-subtitle mb-4">
         <p class="subtitle subtitle-kuliner mt-3 fw-semibold text-center" style="color: hsla(0, 0%, 18%, 0.603);">Sejarah nusantara melihat masakan Indonesia sebagai hasil persilangan budaya. Saat ini, kreativitas anak muda berkontribusi pada keragaman makanan dan minuman di Jakarta. Belum lagi beragamnya gaya hidup diet (modified diet), yaitu mulai dari vegetarian (tanpa daging), vegan (tanpa makanan hewani), hingga ketogenik (makanan rendah karbohidrat dan tinggi lemak) yang menciptakan sebuah kancah kuliner baru.</p>
       </div>
 

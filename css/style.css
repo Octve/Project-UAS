@@ -209,6 +209,9 @@ form {
   .welcomePage {
     padding: 15rem 0 5rem 0;
   }
+  .card {
+    width: 4rem;
+  }
 
   /* Museum */
   .museum-wrapper {
