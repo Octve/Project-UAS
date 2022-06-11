@@ -9,7 +9,7 @@
   <!-- CSS Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous" type="text/css">
   <!-- CSS -->
-  <link rel="stylesheet" href="./css/style.css" type="text/css">
+  <link rel="stylesheet" href="../../css/style.css" type="text/css">
   <!-- Unicons (Icons) -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 
@@ -24,32 +24,29 @@
   <header>
     <nav class="navbar navbar-expand-lg fw-semibold fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#"><img src="./img/logo.svg" alt="Logo"> Visit Jakarta</a>
+        <a class="navbar-brand" href="#"><img src="../../img/logo.svg" alt="Logo"> Visit Jakarta</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto" id="navbar">
             <li class="nav-item">
-              <a class="nav-link actived" aria-current="page" href="./beranda.php">Beranda</a>
+              <a class="nav-link actived" aria-current="page" href="../beranda/beranda.php">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./museum.php">Museum</a>
+              <a class="nav-link" href="../museum/museum.php">Museum</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./galeri.php">Galeri</a>
+              <a class="nav-link" href="../galeri/galeri.php">Galeri</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./kuliner.php">Kuliner</a>
+              <a class="nav-link" href="../kuliner/kuliner.php">Kuliner</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./rekreasi.php">Tempat Rekreasi</a>
+              <a class="nav-link" href="../rekreasi/rekreasi.php">Tempat Rekreasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="uil uil-search"></i></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./login.php"><button type="button" class="btn btn-purple">Login</button></a>
+              <a class="nav-link" href="../login/login.php"><button type="button" class="btn btn-purple">Login</button></a>
             </li>
           </ul>
         </div>
@@ -62,7 +59,7 @@
     <section id="welcomePage" class="welcomePage text-center">
       <h1 class="title-welcomePage fw-bold">Selamat Datang di <span>Visit Jakarta</span>!</h1>
       <p class="container subtitle-welcomePage subtitle fw-semibold">Ingin berwisata ke Jakarta tetapi tidak tahu apa saja yang asyik untuk dikunjungi? Tenang, <span>Visit Jakarta</span> hadir untuk membantu kamu menentukan tujuan wisata. <br>Yuk, gabung!</p>
-      <button class="btn btn-purple button-welcomePage"><a href="./login.php">Gabung sekarang</a></button>
+      <button class="btn btn-purple button-welcomePage"><a href="../login/login.php">Gabung sekarang</a></button>
     </section>
 
     <!-- Museum -->
@@ -70,7 +67,7 @@
       <div class="row d-flex justify-content-evenly">
         <div class="col">
           <div class="rectangle text-center">
-            <img class="img-fluid" src="./img/beranda/museum.png " alt="museum">
+            <img class="img-fluid" src="../../img/beranda/museum.png " alt="museum">
           </div>
         </div>
         <div class="col text-museum align-self-center">
@@ -91,7 +88,7 @@
         </div>
         <div class="col">
           <div class="rectangle text-center">
-            <img class="img-fluid" src="./img/beranda/galeri.jpg" alt="Galeri">
+            <img class="img-fluid" src="../../img/beranda/galeri.jpg" alt="Galeri">
           </div>
         </div>
 
@@ -111,7 +108,7 @@
         <div class="row justify-content-evenly ">
           <div class="col-md-3 m-1">
             <div class="card" style="width: 18rem;">
-              <img src="./img/beranda/soto-betawi.png" class="card-img-top" alt="Soto Betawi">
+              <img src="../../img/beranda/soto-betawi.png" class="card-img-top" alt="Soto Betawi">
               <div class="card-body">
                 <h5 class="card-title fw-bolder">Soto Betawi</h5>
                 <p class="card-text fw-semibold">Soto Betawi merupakan soto khas yang terdiri dari campuran
@@ -122,7 +119,7 @@
           </div>
           <div class="col-md-3 m-1">
             <div class="card" style="width: 18rem;">
-              <img src="./img/beranda/kerak-telor.png" class="card-img-top" alt="Kerak Telor">
+              <img src="../../img/beranda/kerak-telor.png" class="card-img-top" alt="Kerak Telor">
               <div class="card-body">
                 <h5 class="card-title fw-bolder">Kerak Telor</h5>
                 <p class="card-text fw-semibold">Kerak telor adalah makanan khas yang terbuat dari bahan dasar beras ketan putih dan telur ayam.</p>
@@ -132,7 +129,7 @@
           </div>
           <div class="col-md-3 m-1">
             <div class="card" style="width: 18rem;">
-              <img src="./img/beranda/laksa-betawi.png" class="card-img-top" alt="Laksa Betawi">
+              <img src="../../img/beranda/laksa-betawi.png" class="card-img-top" alt="Laksa Betawi">
               <div class="card-body">
                 <h5 class="card-title fw-bolder">Laksa Betawi</h5>
                 <p class="card-text fw-semibold">Laksa betawi adalah Penganan berjenis mie yang diberi bumbu</p>
@@ -150,7 +147,7 @@
       <div class="row d-flex justify-content-evenly">
         <div class="col">
           <div class="rectangle text-center">
-            <img class="img-fluid" src="./img/beranda/rekreasi.jpg" alt="Rekreasi">
+            <img class="img-fluid" src="../../img/beranda/rekreasi.jpg" alt="Rekreasi">
           </div>
         </div>
         <div class="col text-tempat-rekreasi align-self-center">
@@ -198,7 +195,7 @@
     </div>
   </footer>
 
-  <script src="./js/main.js"></script>
+  <script src="../../js/main.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 </body>
 

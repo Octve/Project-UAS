@@ -9,7 +9,7 @@
   <!-- CSS Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous" type="text/css">
   <!-- CSS -->
-  <link rel="stylesheet" href="./css/style.css" type="text/css">
+  <link rel="stylesheet" href="../../css/style.css" type="text/css">
   <!-- Unicons (Icons) -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 
@@ -31,25 +31,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto" id="navbar">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="./beranda.php">Beranda</a>
+              <a class="nav-link" aria-current="page" href="../beranda/beranda.php">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link actived" href="./museum.php">Museum</a>
+              <a class="nav-link actived" href="../museum/museum.php">Museum</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./galeri.php">Galeri</a>
+              <a class="nav-link" href="../galeri/galeri.php">Galeri</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./kuliner.php">Kuliner</a>
+              <a class="nav-link" href="../kuliner/kuliner.php">Kuliner</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./rekreasi.php">Tempat Rekreasi</a>
+              <a class="nav-link" href="../rekreasi/rekreasi.php">Tempat Rekreasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="uil uil-search"></i></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./login.php"><button type="button" class="btn btn-purple">Login</button></a>
+              <a class="nav-link" href="../login/login.php"><button type="button" class="btn btn-purple">Login</button></a>
             </li>
           </ul>
         </div>
@@ -80,12 +77,12 @@
                   <button class="btn btn-purple button-museum mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/museum/Museum-Gajah.png" width="300px" alt="Museum Gajah">
+                  <img class="img-fluid" src="../../img/museum/Museum-Gajah.png" width="300px" alt="Museum Gajah">
                 </div>
               </div>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/museum/museum-taman-prasasti.jpeg" width="300px" style="border-radius: 10px;" alt="Museum Taman Prasasti">
+                  <img class="img-fluid" src="../../img/museum/museum-taman-prasasti.jpeg" width="300px" style="border-radius: 10px;" alt="Museum Taman Prasasti">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Museum Taman Prasasti</h4>
@@ -102,14 +99,14 @@
                   <button class="btn btn-purple button-museum mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/museum/Museum-Fatahillah.png" width="300px" alt="Museum fatahillah">
+                  <img class="img-fluid" src="../../img/museum/Museum-Fatahillah.png" width="300px" alt="Museum fatahillah">
                 </div>
               </div>
               <!-- Jaksel -->
               <h3 class="fw-bolder mb-3" id="list-item-3">Jakarta Selatan</h3>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/museum/Museum-Satriamandala.png" width="300px" alt="Museum Kebangkitan Nasional">
+                  <img class="img-fluid" src="../../img/museum/Museum-Satriamandala.png" width="300px" alt="Museum Kebangkitan Nasional">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Museum Satriamandala</h4>
@@ -126,14 +123,14 @@
                   <button class="btn btn-purple button-museum mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/museum/Museum-Bahari.png" width="300px" alt="Museum Bahari">
+                  <img class="img-fluid" src="../../img/museum/Museum-Bahari.png" width="300px" alt="Museum Bahari">
                 </div>
               </div>
               <!-- Jaktim -->
               <h3 class="fw-bolder mb-3" id="list-item-5">Jakarta Timur</h3>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/museum/Museum-Perangko.jpeg" width="300px" style="border-radius: 10px;" alt="Museum Perangko">
+                  <img class="img-fluid" src="../../img/museum/Museum-Perangko.jpeg" width="300px" style="border-radius: 10px;" alt="Museum Perangko">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Museum Perangko</h4>

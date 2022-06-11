@@ -9,7 +9,7 @@
   <!-- CSS Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous" type="text/css">
   <!-- CSS -->
-  <link rel="stylesheet" href="./css/style.css" type="text/css">
+  <link rel="stylesheet" href="../../css/style.css" type="text/css">
   <!-- Unicons (Icons) -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 
@@ -31,25 +31,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto" id="navbar">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="./beranda.php">Beranda</a>
+              <a class="nav-link" aria-current="page" href="../beranda/beranda.php">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./museum.php">Museum</a>
+              <a class="nav-link " href="../museum/museum.php">Museum</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./galeri.php">Galeri</a>
+              <a class="nav-link " href="../galeri/galeri.php">Galeri</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./kuliner.php">Kuliner</a>
+              <a class="nav-link" href="../kuliner/kuliner.php">Kuliner</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link actived" href="./rekreasi.php">Tempat Rekreasi</a>
+              <a class="nav-link actived" href="../rekreasi/rekreasi.php">Tempat Rekreasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="uil uil-search"></i></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./login.php"><button type="button" class="btn btn-purple">Login</button></a>
+              <a class="nav-link" href="../login/login.php"><button type="button" class="btn btn-purple">Login</button></a>
             </li>
           </ul>
         </div>
@@ -81,12 +78,12 @@
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/Monas.png" width="300px" alt="Monas">
+                  <img class="img-fluid" src="../../img/rekreasi/Monas.png" width="300px" alt="Monas">
                 </div>
               </div>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/gedung-kebangkitan-nasional.png" width="300px" style="border-radius: 10px;" alt="rekreasi Kebangkitan Nasional">
+                  <img class="img-fluid" src="../../img/rekreasi/gedung-kebangkitan-nasional.png" width="300px" style="border-radius: 10px;" alt="rekreasi Kebangkitan Nasional">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Gedung Kebangkitan Nasional</h4>
@@ -101,12 +98,12 @@
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/tugu-proklamasi.png" width="300px" alt="Tugu Proklamasi">
+                  <img class="img-fluid" src="../../img/rekreasi/tugu-proklamasi.png" width="300px" alt="Tugu Proklamasi">
                 </div>
               </div>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/taman-suropati.png" width="300px" style="border-radius: 10px;" alt="rekreasi Kebangkitan Nasional">
+                  <img class="img-fluid" src="../../img/rekreasi/taman-suropati.png" width="300px" style="border-radius: 10px;" alt="rekreasi Kebangkitan Nasional">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Taman Suropati</h4>
@@ -124,7 +121,7 @@
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/kota-tua.png" width="300px" alt="Kota Tua Batavia">
+                  <img class="img-fluid" src="../../img/rekreasi/kota-tua.png" width="300px" alt="Kota Tua Batavia">
                 </div>
               </div>
 
@@ -132,7 +129,7 @@
               <h3 class="fw-bolder mb-3" id="list-item-3">Jakarta Selatan</h3>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/taman-langsat.png" width="300px" alt="Taman Langsat">
+                  <img class="img-fluid" src="../../img/rekreasi/taman-langsat.png" width="300px" alt="Taman Langsat">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Taman Langsat</h4>
@@ -150,7 +147,7 @@
                   <button class="btn btn-purple button-rekreasi mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/muara-angke.png" width="300px" alt="Suaka Margasatwa Muara Angke">
+                  <img class="img-fluid" src="../../img/rekreasi/muara-angke.png" width="300px" alt="Suaka Margasatwa Muara Angke">
                 </div>
               </div>
 
@@ -158,7 +155,7 @@
               <h3 class="fw-bolder mb-3" id="list-item-5">Jakarta Timur</h3>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/rekreasi/taman-mini.png" width="300px" alt="Taman Mini Indonesia Indah">
+                  <img class="img-fluid" src="../../img/rekreasi/taman-mini.png" width="300px" alt="Taman Mini Indonesia Indah">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Taman Mini Indonesia Indah</h4>

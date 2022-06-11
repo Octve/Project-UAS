@@ -9,7 +9,7 @@
   <!-- CSS Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous" type="text/css">
   <!-- CSS -->
-  <link rel="stylesheet" href="./css/style.css" type="text/css">
+  <link rel="stylesheet" href="../../css/style.css" type="text/css">
   <!-- Unicons (Icons) -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 
@@ -31,25 +31,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto" id="navbar">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="./beranda.php">Beranda</a>
+              <a class="nav-link" aria-current="page" href="../beranda/beranda.php">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./museum.php">Museum</a>
+              <a class="nav-link " href="../museum/museum.php">Museum</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link actived" href="./galeri.php">Galeri</a>
+              <a class="nav-link actived" href="../galeri/galeri.php">Galeri</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./kuliner.php">Kuliner</a>
+              <a class="nav-link " href="../kuliner/kuliner.php">Kuliner</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./rekreasi.php">Tempat Rekreasi</a>
+              <a class="nav-link" href="../rekreasi/rekreasi.php">Tempat Rekreasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="uil uil-search"></i></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./login.php"><button type="button" class="btn btn-purple">Login</button></a>
+              <a class="nav-link" href="../login/login.php"><button type="button" class="btn btn-purple">Login</button></a>
             </li>
           </ul>
         </div>
@@ -81,12 +78,12 @@
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/galeri/galeri-nasional-indonesia.png" width="300px" alt="Galeri Nasional Indonesia">
+                  <img class="img-fluid" src="../../img/galeri/galeri-nasional-indonesia.png" width="300px" alt="Galeri Nasional Indonesia">
                 </div>
               </div>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/galeri/galeri-indonesia-kaya.png" width="300px" style="border-radius: 10px;" alt="Galeri Indonesia Kaya">
+                  <img class="img-fluid" src="../../img/galeri/galeri-indonesia-kaya.png" width="300px" style="border-radius: 10px;" alt="Galeri Indonesia Kaya">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Galeri Indonesia Kaya</h4>
@@ -101,7 +98,7 @@
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/galeri/galeri-bartele.png" width="300px" alt="Galeri Bartele">
+                  <img class="img-fluid" src="../../img/galeri/galeri-bartele.png" width="300px" alt="Galeri Bartele">
                 </div>
               </div>
 
@@ -109,7 +106,7 @@
               <h3 class="fw-bolder" id="list-item-2">Jakarta Barat</h3>
               <div class="row mb-5">
                 <div class="col">
-                  <img class="img-fluid" src="./img/galeri/galeri-nadi.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Nadi">
+                  <img class="img-fluid" src="../../img/galeri/galeri-nadi.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Nadi">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Galeri Nadi</h4>
@@ -128,7 +125,7 @@
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/galeri/galeri-hadiprana.png" width="300px" style="border-radius: 10px;" alt="Galeri Hadiprana">
+                  <img class="img-fluid" src="../../img/galeri/galeri-hadiprana.png" width="300px" style="border-radius: 10px;" alt="Galeri Hadiprana">
                 </div>
               </div>
 
@@ -136,7 +133,7 @@
               <h3 class="fw-bolder mb-3" id="list-item-4">Jakarta Utara</h3>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/galeri/galeri-artone.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Art One">
+                  <img class="img-fluid" src="../../img/galeri/galeri-artone.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Art One">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Galeri Art One</h4>
@@ -154,7 +151,7 @@
                   <button class="btn btn-purple button-galeri mt-2 mb-3"><a href="#">Lihat semua</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/galeri/galeri-pasarseni.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Pasar Seni">
+                  <img class="img-fluid" src="../../img/galeri/galeri-pasarseni.jpeg" width="300px" style="border-radius: 10px;" alt="Galeri Pasar Seni">
                 </div>
               </div>
             </div>

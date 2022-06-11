@@ -9,7 +9,7 @@
   <!-- CSS Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous" type="text/css">
   <!-- CSS -->
-  <link rel="stylesheet" href="./css/style.css" type="text/css">
+  <link rel="stylesheet" href="../../css/style.css" type="text/css">
   <!-- Unicons (Icons) -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 </head>
@@ -30,25 +30,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto" id="navbar">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="./beranda.php">Beranda</a>
+              <a class="nav-link" aria-current="page" href="../beranda/beranda.php">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./museum.php">Museum</a>
+              <a class="nav-link " href="../museum/museum.php">Museum</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./galeri.php">Galeri</a>
+              <a class="nav-link " href="../galeri/galeri.php">Galeri</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link actived" href="./kuliner.php">Kuliner</a>
+              <a class="nav-link actived" href="../kuliner/kuliner.php">Kuliner</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./rekreasi.php">Tempat Rekreasi</a>
+              <a class="nav-link" href="../rekreasi/rekreasi.php">Tempat Rekreasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="uil uil-search"></i></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#"><button type="button" class="btn btn-purple">Login</button></a>
+              <a class="nav-link" href="../login/login.php"><button type="button" class="btn btn-purple">Login</button></a>
             </li>
           </ul>
         </div>
@@ -77,12 +74,12 @@
                   <button class="btn btn-purple button-kuliner mt-2 mb-3"><a href="#">Lihat restoran</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/kuliner/soto-betawi.png" width="300px" alt="Soto Betawi">
+                  <img class="img-fluid" src="../../img/kuliner/soto-betawi.png" width="300px" alt="Soto Betawi">
                 </div>
               </div>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/kuliner/kerak-telor.png" width="300px" style="border-radius: 10px;" alt="Kerak Telor">
+                  <img class="img-fluid" src="../../img/kuliner/kerak-telor.png" width="300px" style="border-radius: 10px;" alt="Kerak Telor">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Kerak Telor</h4>
@@ -97,7 +94,7 @@
                   <button class="btn btn-purple button-kuliner mt-2 mb-3"><a href="#">Lihat Restoran</a></button>
                 </div>
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/kuliner/laksa-betawi.png" width="300px" alt="Laksa Betawi">
+                  <img class="img-fluid" src="../../img/kuliner/laksa-betawi.png" width="300px" alt="Laksa Betawi">
                 </div>
               </div>
 
@@ -105,7 +102,7 @@
               <h3 class="fw-bolder mt-3" id="list-item-2">Minuman</h3>
               <div class="row mb-5">
                 <div class="col text-center">
-                  <img class="img-fluid" src="./img/kuliner/selendang-mayang.png" width="300px" style="border-radius: 10px;" alt="Selendang Mayang">
+                  <img class="img-fluid" src="../../img/kuliner/selendang-mayang.png" width="300px" style="border-radius: 10px;" alt="Selendang Mayang">
                 </div>
                 <div class="col-md-7">
                   <h4 class="mt-3">Es Selendang Mayang</h4>
