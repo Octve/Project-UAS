@@ -23,7 +23,7 @@
   <header>
     <nav class="navbar navbar-expand-lg fw-semibold fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#"><img src="./img/logo.svg" alt="Logo"> Visit Jakarta</a>
+        <a class="navbar-brand" href="#"><img src="../../img/logo.svg" alt="Logo"> Visit Jakarta</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
