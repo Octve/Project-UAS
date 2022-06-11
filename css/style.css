@@ -92,9 +92,6 @@ section:not(.welcomePage) {
   background-color: hsl(281, 62%, 37%);
   color: #fff;
 }
-.uil-search {
-  font-size: 20px;
-}
 
 /* Footer */
 footer {

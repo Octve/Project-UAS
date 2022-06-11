@@ -73,7 +73,7 @@
         <div class="col text-museum align-self-center">
           <h1 class="text-decoration-underline">Museum</h1>
           <p class="subtitle subtitle-museum mt-3 fw-semibold">Kita hidup sekarang karena masa lalu, dan masa depan adalah kita hari ini. Demikian kata seorang bijak yang menggambarkan pentingnya sejarah. Nah, salah satu cara belajar sejarah dengan cara yang menyenangkan adalah dengan mengunjungi museum.</p>
-          <button class="btn btn-purple button-museum mt-4"><a href="#">Selengkapnya</a></button>
+          <button class="btn btn-purple button-museum mt-4"><a href="../museum/museum.php">Selengkapnya</a></button>
         </div>
       </div>
     </section>
@@ -84,7 +84,7 @@
         <div class="col text-galeri align-self-center">
           <h1 class="text-decoration-underline">Galeri</h1>
           <p class="subtitle subtitle-galeri mt-3 fw-semibold">Galeri merupakan tempat yang berfungsi untuk menyajikan karya seni seperti alat musik, tarian, baju adat, dan lain - lain untuk dipamerkan kepada masyarakat luas. Selain itu, galeri juga bisa menjadi tempat untuk menjual karya seni serta menjadi tempat untuk mempelajari berbagai macam tentang kesenian.</p>
-          <button class="btn btn-purple button-museum mt-4"><a href="#">Selengkapnya</a></button>
+          <button class="btn btn-purple button-museum mt-4"><a href="../galeri/galeri.php">Selengkapnya</a></button>
         </div>
         <div class="col">
           <div class="rectangle text-center">
@@ -113,7 +113,7 @@
                 <h5 class="card-title fw-bolder">Soto Betawi</h5>
                 <p class="card-text fw-semibold">Soto Betawi merupakan soto khas yang terdiri dari campuran
                   daging dan jerohan sapi. </p>
-                <a href="#"><button class=" btn btn-purple">Selengkapnya</button></a>
+                <a href="../galeri/galeri.php"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
@@ -123,7 +123,7 @@
               <div class="card-body">
                 <h5 class="card-title fw-bolder">Kerak Telor</h5>
                 <p class="card-text fw-semibold">Kerak telor adalah makanan khas yang terbuat dari bahan dasar beras ketan putih dan telur ayam.</p>
-                <a href="#"><button class=" btn btn-purple">Selengkapnya</button></a>
+                <a href="../galeri/galeri.php"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
@@ -133,7 +133,7 @@
               <div class="card-body">
                 <h5 class="card-title fw-bolder">Laksa Betawi</h5>
                 <p class="card-text fw-semibold">Laksa betawi adalah Penganan berjenis mie yang diberi bumbu</p>
-                <a href="#"><button class=" btn btn-purple">Selengkapnya</button></a>
+                <a href="../galeri/galeri.php"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
@@ -153,7 +153,7 @@
         <div class="col text-tempat-rekreasi align-self-center">
           <h1 class="text-decoration-underline">Tempat Rekreasi</h1>
           <p class="subtitle subtitle-tempat-rekreasi mt-3 fw-semibold">Tempat rekreasi merupakan suatu kawasan yang dapat digunakan oleh masyarakat untuk menghabiskan waktu luang baik secara individual atau bersama-sama dengan keluarga, teman, dan lainnya. </p>
-          <button class="btn btn-purple button-tempat-rekreasi mt-4"><a href="#">Selengkapnya</a></button>
+          <button class="btn btn-purple button-tempat-rekreasi mt-4"><a href="../rekreasi/rekreasi.php">Selengkapnya</a></button>
         </div>
       </div>
     </section>
