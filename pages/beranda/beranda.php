@@ -113,7 +113,7 @@
                 <h5 class="card-title fw-bolder">Soto Betawi</h5>
                 <p class="card-text fw-semibold">Soto Betawi merupakan soto khas yang terdiri dari campuran
                   daging dan jerohan sapi. </p>
-                <a href="../galeri/galeri.php"><button class=" btn btn-purple">Selengkapnya</button></a>
+                <a href="../kuliner/kuliner.php"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
@@ -123,7 +123,7 @@
               <div class="card-body">
                 <h5 class="card-title fw-bolder">Kerak Telor</h5>
                 <p class="card-text fw-semibold">Kerak telor adalah makanan khas yang terbuat dari bahan dasar beras ketan putih dan telur ayam.</p>
-                <a href="../galeri/galeri.php"><button class=" btn btn-purple">Selengkapnya</button></a>
+                <a href="../kuliner/kuliner.php"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
@@ -133,7 +133,7 @@
               <div class="card-body">
                 <h5 class="card-title fw-bolder">Laksa Betawi</h5>
                 <p class="card-text fw-semibold">Laksa betawi adalah Penganan berjenis mie yang diberi bumbu</p>
-                <a href="../galeri/galeri.php"><button class=" btn btn-purple">Selengkapnya</button></a>
+                <a href="../kuliner/kuliner.php"><button class=" btn btn-purple">Selengkapnya</button></a>
               </div>
             </div>
           </div>
